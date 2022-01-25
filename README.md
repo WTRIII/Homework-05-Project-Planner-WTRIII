@@ -1,4 +1,4 @@
-# Homework-05-Project-Planner-WTRIII
+# Project-Planner-WTRIII
 
 # 05 Third-Party APIs: Work Day Scheduler
 
