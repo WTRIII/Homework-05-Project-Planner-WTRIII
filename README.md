@@ -3,8 +3,8 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Summary
-- Live Link: https://wtriii.github.io/Homework-05-Project-Planner-WTRIII/
-- Repo Link: https://github.com/WTRIII/Homework-05-Project-Planner-WTRIII
+- Live Link: https://wtriii.github.io/Project-Planner-WTRIII/
+- Repo Link: https://github.com/WTRIII/Project-Planner-WTRIII
 - collaborated with Mitchell Robbins for deliverable
 - used this tutorial for local storage: https://youtu.be/rVyTjFofok0
 - created user inputs for planner
